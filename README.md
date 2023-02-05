@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shehab Hossen
+- 👋 Hi, I’m <b>Shehab Hossen</b>
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Problem Solving Expart in JavaScript & Mern Stack Development
 - 💞️ I’m looking to collaborate on Coding
