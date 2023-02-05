@@ -1,7 +1,7 @@
-- 👋 <h1>Hi, I’m <b>Shehab Hossen</b></h1>
-- 👀 <h3>I’m interested in JavaScript</h3>
-- 🌱 <h3>I’m currently learning Problem Solving Expart in JavaScript & Mern Stack Development</h3>
-- 💞️ <h3>I’m looking to collaborate on Coding</h3>
+- <h1>👋 Hi, I’m <b>Shehab Hossen</b></h1>
+- <h3>👀 I’m interested in JavaScript</h3>
+- <h3>🌱 I’m currently learning Problem Solving Expart in JavaScript & Mern Stack Development</h3>
+- <h3>💞️ I’m looking to collaborate on Coding</h3>
 - 📫 How to reach me ...
 
 <!---
