@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shehab H.</h1>
-<h3 align="center">I am Front-end Developer and JavaScript Enthusiast</h3>
+### Hi there 👋, My name is Shehab H.
+#### I am Front-end Developer
+![I am Front-end Developer](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/313291804_140843785371730_1745361323637845225_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=HJuaf6l5qIgAX9llW2x&_nc_ht=scontent.fdac138-2.fna&oh=00_AfDuE94CT1GrzLjYoGQe77yazRei0izN7IT3cOWR5x40CQ&oe=6545B398)
+
+I trained myself as a frontend developer. Now I am trying to get a job or intern. At the same time, I am constantly working on various projects and new technologies. After frontend I also worked on small backend projects. My main goal is to work on next generation web 3.0
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehabweb1&label=Profile%20views&color=0e75b6&style=flat" alt="shehabweb1" /> </p>
 
