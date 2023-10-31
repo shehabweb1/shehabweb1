@@ -10,7 +10,7 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 - 📝 I regularly write articles on [https://shehab-web.netlify.app/blog](https://shehab-web.netlify.app/blog)
 
 
-![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabweb1&show_icons=true&theme=transparent)
+![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabweb1&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
