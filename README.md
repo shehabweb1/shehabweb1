@@ -15,11 +15,6 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 
 ![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabweb1&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1)  
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
