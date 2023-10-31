@@ -9,6 +9,9 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 
 - 📝 I regularly write articles on [https://shehab-web.netlify.app/blog](https://shehab-web.netlify.app/blog)
 
+
+[![Shehab's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shehabweb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shehabweb1" height="30" width="40" /></a>
