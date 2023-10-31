@@ -1,14 +1,9 @@
 # Hi there 👋, My name is Shehab H.
 ### I am Front-end Developer
 
-![I am Front-end Developer](https://media.licdn.com/dms/image/C4D16AQEDftK1PEitEw/profile-displaybackgroundimage-shrink_350_1400/0/1652936049630?e=1704326400&v=beta&t=6nMtchWfQKMTVg2YzhGm3e1Y4YHSJobAGFE0NWbTQ3c)
-
-
 I trained myself as a frontend developer. Now I am trying to get a job or intern. At the same time, I am constantly working on various projects and new technologies. After frontend I also worked on small backend projects. My main goal is to work on next generation web 3.0
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehabweb1&label=Profile%20views&color=0e75b6&style=flat" alt="shehabweb1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehabweb1" alt="shehabweb1" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://shehab-web.netlify.app](https://shehab-web.netlify.app)
 
