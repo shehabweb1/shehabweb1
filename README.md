@@ -7,7 +7,7 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 
 - 👨‍💻 All of my projects are available at [https://shehab-web.netlify.app](https://shehab-web.netlify.app)
 
-- 📝 I regularly write articles on [https://shehab-web.netlify.app/blog](https://shehab-web.netlify.app/blog)
+- 📝 I regularly write articles on [https://st-blogs-0.web.app](https://st-blogs-0.web.app)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
