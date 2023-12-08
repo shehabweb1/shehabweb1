@@ -7,7 +7,7 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 
 - 👨‍💻 All of my projects are available at [https://shehab-web.netlify.app](https://shehab-web.netlify.app)
 
-- 📝 I regularly write articles on [https://st-blogs-0.web.app](https://st-blogs-0.web.app)
+- 📝 I regularly write articles on [https://dev.to/shehabweb1](https://dev.to/shehabweb1)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,10 +32,10 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://linkedin.com/in/shehab-web1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab-web1" height="30" width="40" /></a>  
+<a href="https://twitter.com/shehab_web1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehab_web1" height="30" width="40" /></a>
   <a href="https://fb.com/shehab.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehab.web" height="30" width="40" /></a>
 <a href="https://instagram.com/shehab.web1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehab.web1" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shehab-web1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab-web1" height="30" width="40" /></a>  
-<a href="https://twitter.com/shehab_web1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehab_web1" height="30" width="40" /></a>
 <a href="https://dev.to/shehabweb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shehabweb1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shehab-web1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shehab-web1" height="30" width="40" /></a>
 
