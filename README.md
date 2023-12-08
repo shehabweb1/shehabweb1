@@ -26,10 +26,7 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
-
-![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabweb1&show_icons=true&theme=highcontrast)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shehabweb1&hide_border=true&border_radius=4&card_width=500)](https://git.io/streak-stats)
+[![Shehab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shehabweb1&theme=transparent&hide_border=true&border_radius=4&card_width=500)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
