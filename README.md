@@ -29,6 +29,7 @@ I trained myself as a frontend developer. Now I am trying to get a job or intern
 
 ![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabweb1&show_icons=true&theme=highcontrast)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shehabweb1&hide_border=true&border_radius=4&card_width=500)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
